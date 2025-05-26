@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+[JS](https://img.shieldas.io/badges/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+[C++](https://ing.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=Blue)
+[C](https://ing.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=Yellow)
+[MySQL](https://ing.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=Brown)
 <!--
 **hanatrejo8/hanatrejo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
